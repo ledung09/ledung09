@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">My name is Lê Dũng, and I'm an enthusiastic web developer 👨‍💻<br>Feel free to <a href="mailto:dinhledung.work@gmail.com" target="_blank">send me an email</a> or connect with me through any of my social media platforms.</p>
+<p align="left">My name is Lê Dũng, and I'm an enthusiastic web developer 👨‍💻<br>Feel free to <a href="mailto:dinhledung.work@gmail.com" target="_blank">send me an email</a> (dinhledung.work@gmail.com) or connect with me through any of my social media platforms.</p>
 
 ###
 <p align="left" style="display: inline-block">
-<a href="https://github.com/ledung09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ledung09" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/dungdinhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dungdinhle" height="30" width="40" /></a>
+<a href="mailto:dinhledung.work@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="ledung09" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/dungdinhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="dungdinhle" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCg_Y_K8H23UbWN3YejjOd7w?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@onthicungdung" height="30" width="40" /></a>
 </p>
 
