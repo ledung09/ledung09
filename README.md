@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ I love creating modern websites by leveraging leading technologies and best practices.<br>🎯 Goals: In the future, I want to start a startup in the web development field 😎<br>🤪 Fun fact: I'm not fond of reading books 📖</p>
+<p align="left">✨ I love creating modern websites by leveraging leading technologies and best practices<br>🎯 Goals: In the future, I want to start a startup in the web development field 😎<br>🤪 Fun fact: I'm not fond of reading books 📖</p>
 
 ###
 
